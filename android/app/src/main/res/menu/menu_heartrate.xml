@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="심박수 초기화"
+        android:id="@+id/menuHeartrateInit"/>
+    <item
+        android:title="표시할 심박수 개수 설정"
+        android:id="@+id/menuHeartrateCount"/>
+</menu>
